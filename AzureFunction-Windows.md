@@ -224,7 +224,7 @@ Assuming your unique suffix is `abc123`, here's how the commands would look:
 3. **Create Function App:**
 
    ```bash
-   az functionapp create --resource-group FunctionAppResourceGroup --consumption-plan-location eastus --runtime node --functions-version 3 --name MyFunctionAppABC123 --storage-account functionappstorageabc123
+   az functionapp create --resource-group FunctionAppResourceGroup --consumption-plan-location eastus --runtime node --functions-version 4 --name MyFunctionAppABC123 --storage-account functionappstorageabc123
    ```
 
 4. **Deploy Function:**
