@@ -2,7 +2,7 @@
 
 #### **Prerequisites**
 
-- **Node.js** installed (version 18 or higher)
+- **Node.js** installed (version 20 or higher)
 - **Azure CLI** installed
 - **Azure Functions Core Tools** installed
 - **Visual Studio Code** with Azure Functions extension
